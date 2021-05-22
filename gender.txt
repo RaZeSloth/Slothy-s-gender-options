@@ -2,7 +2,7 @@ PICK ON OF THESE TO BE MATCHED WITH A FEMALE = "he/him", "he", "bi", "he/male", 
 
 
 
-PICK ON OF THESE TO BE MATCHED WITH A MALE = "she/her", "her/she", "gay",  "her", "she", "she/them", "he/they"
+PICK ON OF THESE TO BE MATCHED WITH A MALE = "she/her", "her/she", "gay",  "her", "she", "she/them", "he/they", "bi"
 
 
 
