@@ -1,9 +1,8 @@
-PICK ON OF THESE TO BE MATCHED WITH A FEMALE = "he/him", "he", "bi", "he/male", "they/them", "male", "she/they", "ze/zim", "ne/nem"
+PICK ON OF THESE TO BE MATCHED WITH A FEMALE: "he/him", "he", "he/male", "they/them", "male", "lesbian"
 
 
+PICK ON OF THESE TO BE MATCHED WITH A MALE: "she/her", "her/she", "gay",  "her", "she"
 
-PICK ON OF THESE TO BE MATCHED WITH A MALE = "she/her", "her/she", "gay",  "her", "she", "she/them", "he/they", "bi", "ze/zim", "ne/nem"
-
-
+PS: Anything else means that you are non binary, and you'll be matched with everyone.
 
 If you see some genders what are in the wrong place or you think that there should be more genders then hmu in Discord, tag: RaZe#2841
