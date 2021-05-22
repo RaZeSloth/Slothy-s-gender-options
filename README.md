@@ -1,2 +1,1 @@
-# Slothy-s-gender-options
-Discord bot Slothy, gender options
+# Go read the gender.txt file
