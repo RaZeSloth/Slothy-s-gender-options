@@ -1,4 +1,4 @@
-PICK ON OF THESE TO BE MATCHED WITH A FEMALE = "he/him", "he", "bisexual", "he/male", "they/them", "male", "she/they"
+PICK ON OF THESE TO BE MATCHED WITH A FEMALE = "he/him", "he", "bi", "he/male", "they/them", "male", "she/they"
 
 
 
